@@ -2,7 +2,7 @@
 A repository to document my Java learning journey
 
 ## About Me
-A CS stduent passionate about learning Java and backend development.
+A CS student passionate about learning Java and backend development.
 
 ## Goals for This Course
 Deepen my understanding of Data Structure and Algorithms using Java.
